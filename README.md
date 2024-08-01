@@ -9,23 +9,11 @@ If IPTV app supports remote path , such as [PVR IPTV simple client](https://kodi
 guide.xml will be refreshed per hour .
 
 ### Channel list:
-   * **Github**
       ```
-      https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
-      ```
-   * **jsDelivr CDN** (optimized for mainland users) 
-      ```
-      https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/TV-IPV4.m3u
+     https://cdn.jsdelivr.net/gh/z451146197/testtv/master/TV-IPV4.m3u
       ```
 ### Guide file (EPG):
-   * **Github**
-      ```
-      https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/guide.xml
       ```
    * **jsDelivr CDN** (optimized for mainland users) 
       ```
       https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml
-      ```
-## 求打赏
-   ![1635786625166](https://user-images.githubusercontent.com/30040912/141647179-f4bc6848-96ed-4ada-8bdb-ae84e2de88ec.jpg)
-   ![mm_facetoface_collect_qrcode_1636813456237](https://user-images.githubusercontent.com/30040912/141647389-b32ac5fc-5292-4338-a37b-2a5bca9ea278.png)
