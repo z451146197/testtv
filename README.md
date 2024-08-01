@@ -1,4 +1,4 @@
-Used for test only
+**Used for test only**
 
    guide.xml is EPG file . ( Thanks to SoPudge , https://github.com/SoPudge/kodi_iptv_epg )
 
