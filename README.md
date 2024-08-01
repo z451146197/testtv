@@ -1,7 +1,5 @@
 Used for test only
 
-Chinese CCTV List
-
    guide.xml is EPG file . ( Thanks to SoPudge , https://github.com/SoPudge/kodi_iptv_epg )
 
 guide.xml will be refreshed per hour .
