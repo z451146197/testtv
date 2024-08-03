@@ -8,5 +8,7 @@ guide.xml will be refreshed per hour .
      https://cdn.jsdelivr.net/gh/z451146197/testtv@master/TV-IPV4.m3u
      
      https://gh.jasonzeng.dev/https://raw.githubusercontent.com/z451146197/testtv/master/TV-IPV4.m3u
+
+     https://gh.jasonzeng.dev/https://raw.githubusercontent.com/z451146197/testtv/master/text.json
 ### Guide file (EPG):
       https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml
