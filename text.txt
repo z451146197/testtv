@@ -71,7 +71,8 @@ CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 优漫卡通,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 哈哈炫动,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-蜡笔小新,https://cn-sdqd-cu-01-18.bilivideo.com/live-bvc/437480/live_35900400_14058159_4000/index.m3u8
+蜡笔小新1台,https://cn-sdqd-cu-01-18.bilivideo.com/live-bvc/437480/live_35900400_14058159_4000/index.m3u8
+蜡笔小新2台,https://cn-gddg-cu-01-18.bilivideo.com/live-bvc/586182/live_35900400_14058159_bluray/index.m3u8
 
 数字频道,#genre#
 黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
