@@ -65,6 +65,6 @@
 
 "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
 "lives":[
-{"name":"live","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/z451146197/testtv/master/text.txt","playerType":1,"epg":"https://epg.112114.eu.org","logo": "https://live.fanmingming.com/tv/{name}.png"}]
+{"name":"live","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u","playerType":1,"epg":"https://epg.112114.eu.org","logo": "https://live.fanmingming.com/tv/{name}.png"}]
 
 }
